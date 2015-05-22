@@ -19,4 +19,8 @@ So you can just:
 ```bash
 cd my-project
 docker-dev genexies/dev-node
+
+# Now inside the container
+cd /home
+# node hot stuff...
 ```
